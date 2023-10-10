@@ -6,5 +6,6 @@ public class Codemath {
         int b=4;
         int c = a+b;
         System.out.println( "Hello world! " + c);
+        System.out.println("Good luck!");
     }
 }
